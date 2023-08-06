@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Abhishek Nikam</h1>
-<p align="left"> <img src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif" alt="ghostabhi4413" /> </p>
+<p align="center"> <img src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif" alt="ghostabhi4413" /> </p>
 <h3 align="center">A passionate Web and Cloud developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostabhi4413&label=Profile%20views&color=0e75b6&style=flat" alt="ghostabhi4413" /> </p>
