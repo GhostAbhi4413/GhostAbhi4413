@@ -26,10 +26,10 @@
 ## 🔥 About Me  
 
 - 🧑‍💻 **Software Engineer @ Endava** *(Aug 2024 – Present)* → Building enterprise apps with **.NET APIs & Angular frontends**  
+- 💡 **Full-stack developer** with hands-on experience in **.NET, Angular, SQL, MongoDB, React, Node.js, TypeScript**  
 - ☁️ **DevOps & Cloud Enthusiast (AWS, Azure, OCI)**: IaC, CI/CD, containers, Kubernetes, observability  
-- 💡 Full-stack skills in **.NET, Angular, SQL**  
 - 👐 **Open-source contributor** (notably OpenTelemetry demo improvements)  
-- 📈 Professional experience: **1 yr 2 mo** (including **6 mo internship**)  
+- 📈 Professional experience: **1 yr 2 mo** including **6 months internship**  
 - 🌐 Portfolio: [abhisheknikamportfolio.netlify.app](https://abhisheknikamportfolio.netlify.app)  
 - ⚡ Fun fact: I’m passionate about **Astronomy** 🌌  
 
