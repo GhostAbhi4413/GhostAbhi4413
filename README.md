@@ -29,7 +29,7 @@
 - 💡 **Full-stack developer** with hands-on experience in **.NET, Angular, SQL, MongoDB, React, Node.js, TypeScript**  
 - ☁️ **DevOps & Cloud Enthusiast (AWS, Azure, OCI)**: IaC, CI/CD, containers, Kubernetes, observability  
 - 👐 **Open-source contributor** (notably OpenTelemetry demo improvements)  
-- 📈 **Professional experience:** *1 year 2 months total* (including 6 months internship)  
+- 📈 **Professional experience:** *1 year 8 months total* (including 6 months internship)  
 - 🌐 Portfolio: [abhisheknikamportfolio.netlify.app](https://abhisheknikamportfolio.netlify.app)  
 - ⚡ Fun fact: I’m passionate about **Astronomy** 🌌  
 
