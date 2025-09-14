@@ -76,15 +76,16 @@
 
 ## 🎓 Certifications  
 
-- **Microsoft AI-900** — Azure AI Fundamentals  
-- **Microsoft AZ-900** — Azure Fundamentals  
-- **Microsoft DP-900** — Azure Data Fundamentals  
-- **Microsoft SC-900** — Security, Compliance, and Identity Fundamentals  
-- **OCI Data Science Professional**  
-- **DevOps Professional**  
-- **Multicloud Professional**  
+- **AWS Academy Cloud Architect**  
 - **AWS Academy Cloud Practitioner**  
-- **Cloud Architect**  
+- **OCI DevOps Professional**  
+- **OCI Multicloud Professional**  
+- **OCI Data Science Professional**  
+- **Microsoft AI-900 — Azure AI Fundamentals**  
+- **Microsoft AZ-900 — Azure Fundamentals**  
+- **Microsoft DP-900 — Azure Data Fundamentals**  
+- **Microsoft SC-900 — Security, Compliance, and Identity Fundamentals**  
+
 
 ---
 
