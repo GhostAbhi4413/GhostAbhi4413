@@ -1,45 +1,48 @@
-<!-- Centered header -->
-<div align="center">
+<h1 align="center">Hi 👋, I'm Abhishek Nikam</h1>
+<h3 align="center">🌟 Software Engineer @ Endava | DevOps & Cloud Professional ☁️ | Building Possibilities 🚀</h3>
 
-# Hi 👋, I'm **Abhishek Nikam**  
-### Software Engineer @ Endava • DevOps & Cloud Professional (AWS) • Open Source Contributor  
+<p align="center">
+  <img src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif" alt="ghostabhi4413" />
+</p>
 
-<a href="https://abhisheknikamportfolio.netlify.app" target="_blank">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0aa4ff?logo=vercel&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/abhishek-nikam-7888b1210" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:abhisheknikam0508@gmail.com" target="_blank">
-  <img alt="Email" src="https://img.shields.io/badge/Email-Contact-ea4335?logo=gmail&logoColor=white">
-</a>
+<p align="center">
+  <a href="https://abhisheknikamportfolio.netlify.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0aa4ff?logo=vercel&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-nikam-7888b1210" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:abhisheknikam0508@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-ea4335?logo=gmail&logoColor=white">
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=ghostabhi4413&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghostabhi4413&label=Profile%20views&color=0e75b6&style=flat" alt="ghostabhi4413" />
+</p>
 
 ---
 
 ## 🔥 About Me  
 
-- 🧑‍💻 **Software Engineer @ Endava** — working on DevOps, Cloud, and full-stack projects  
-- ☁️ **DevOps & Cloud (AWS)** enthusiast → IaC, CI/CD, Containers, Kubernetes, Monitoring  
-- 💡 Experienced in **.NET** and **Angular** for enterprise-grade apps  
+- 🧑‍💻 **Software Engineer @ Endava** — working on cloud, DevOps, and enterprise apps  
+- ☁️ **DevOps & Cloud (AWS)**: IaC, CI/CD, containers, Kubernetes, observability  
+- 💻 Hands-on with **.NET & Angular**  
 - 👐 **Open-source contributor** (notably around OpenTelemetry demo)  
-- 📈 Experience: **1 yr 2 mo** professional + **6 mo internship**  
+- 📈 Experience: **1 yr 2 mo** (Endava) + **6 mo internship**  
 - 🌐 Portfolio: [abhisheknikamportfolio.netlify.app](https://abhisheknikamportfolio.netlify.app)  
-- ⚡ Fun fact: Passionate about **Astronomy** 🌌  
+- ⚡ Fun fact: I’m passionate about **Astronomy** 🌌  
 
 ---
 
 ## 🧭 What I Do  
 
-- **DevOps** → CI/CD pipelines (GitHub Actions, Jenkins), GitOps, automated deployments  
-- **Cloud (AWS)** → ECS, EKS, EC2, S3, RDS, IAM, Route 53, CloudWatch  
+- **DevOps** → CI/CD (GitHub Actions, Jenkins), GitOps, automation  
+- **Cloud (AWS)** → ECS/EKS, EC2, S3, RDS, IAM, Route 53, CloudWatch  
 - **Containers** → Docker, Docker Compose, Kubernetes, Helm  
 - **IaC** → Terraform, CloudFormation  
 - **Observability** → OpenTelemetry, Prometheus, Grafana  
-- **Apps** → .NET (Web API), Angular, REST APIs, Secure Auth (JWT)  
+- **Apps** → .NET APIs, Angular dashboards, secure JWT auth  
 - **Databases** → MySQL, PostgreSQL, SQL Server  
 
 ---
@@ -47,37 +50,33 @@
 ## 🚀 Featured Projects  
 
 - **Real-Time DevOps Project (AWS + Docker + CI/CD)**  
-  Built a multi-service app deployed on AWS ECS/EKS with automated GitHub Actions pipeline.  
-  *Highlights:* IaC with Terraform, Blue-Green Deployments, CloudWatch dashboards, health checks.  
+  Multi-service app deployed on AWS with automated pipelines.  
+  *Highlights:* Terraform IaC, blue-green deploys, CloudWatch dashboards.  
 
-- **OpenTelemetry Demo – Extensions (Fork & Contributions)**  
-  Enhanced deployment setups for observability (logs, metrics, traces).  
-  *Highlights:* Docker Compose & Kubernetes variations, tuned exporters/samplers.  
+- **OpenTelemetry Demo – Contributions**  
+  Extended deployments and configs to showcase observability with logs, metrics, traces.  
 
 - **Online Bookstore (.NET + Angular + SQL)**  
-  Full-stack bookstore with authentication, cart/checkout flow, and PrimeNG tables.  
-  *Highlights:* Multi-layered .NET backend, Angular reactive forms, secure APIs.  
+  Auth + cart + order management with PrimeNG UI, secure REST APIs.  
 
 ---
 
 ## 🧑‍💼 Experience  
 
 **Software Engineer — Endava (1 yr 2 mo)**  
-- Automated CI/CD pipelines for production systems  
-- Dockerized services and deployed to AWS (ECS/EKS)  
-- Integrated monitoring with OpenTelemetry + Grafana/CloudWatch  
-- Built APIs in .NET, Angular dashboards for clients  
+- Built CI/CD pipelines, Dockerized apps, automated deployments  
+- AWS (ECS/EKS) deployments with monitoring and observability  
+- Developed .NET APIs + Angular frontends  
 
-**Intern — (6 mo)**  
-- Built features for internal web apps  
-- Learned production-level DevOps workflows and testing practices  
+**Intern (6 mo)**  
+- Assisted in web app features and DevOps automation basics  
 
 ---
 
 ## 👐 Open Source  
 
-- Contributions to **OpenTelemetry demo** → docs, deployment configs, instrumentation tweaks  
-- Exploring issues tagged `good first issue` to contribute actively across DevOps/Cloud projects  
+- Contributions to **OpenTelemetry demo** (docs, deployment tweaks)  
+- Active on community projects labeled `good first issue`  
 
 ---
 
