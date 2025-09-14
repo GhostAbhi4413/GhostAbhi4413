@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Nikam</h1>
-<h3 align="center">🌟 Software Engineer @ Endava | DevOps & Cloud Professional ☁️ | Building Possibilities 🚀</h3>
+<h3 align="center">🌟 Software Engineer @ Endava | DevOps & Cloud Enthusiast ☁️ | Building Possibilities 🚀</h3>
 
 <p align="center">
   <img src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif" alt="ghostabhi4413" />
@@ -25,11 +25,11 @@
 
 ## 🔥 About Me  
 
-- 🧑‍💻 **Software Engineer @ Endava** — working on cloud, DevOps, and enterprise apps  
-- ☁️ **DevOps & Cloud (AWS)**: IaC, CI/CD, containers, Kubernetes, observability  
-- 💻 Hands-on with **.NET & Angular**  
-- 👐 **Open-source contributor** (notably around OpenTelemetry demo)  
-- 📈 Experience: **1 yr 2 mo** (Endava) + **6 mo internship**  
+- 🧑‍💻 **Software Engineer @ Endava** *(Aug 2024 – Present)* → Building enterprise apps with **.NET APIs & Angular frontends**  
+- ☁️ **DevOps & Cloud Enthusiast (AWS, Azure, OCI)**: IaC, CI/CD, containers, Kubernetes, observability  
+- 💡 Full-stack skills in **.NET, Angular, SQL**  
+- 👐 **Open-source contributor** (notably OpenTelemetry demo improvements)  
+- 📈 Professional experience: **1 yr 2 mo** (including **6 mo internship**)  
 - 🌐 Portfolio: [abhisheknikamportfolio.netlify.app](https://abhisheknikamportfolio.netlify.app)  
 - ⚡ Fun fact: I’m passionate about **Astronomy** 🌌  
 
@@ -37,62 +37,76 @@
 
 ## 🧭 What I Do  
 
-- **DevOps** → CI/CD (GitHub Actions, Jenkins), GitOps, automation  
-- **Cloud (AWS)** → ECS/EKS, EC2, S3, RDS, IAM, Route 53, CloudWatch  
-- **Containers** → Docker, Docker Compose, Kubernetes, Helm  
-- **IaC** → Terraform, CloudFormation  
-- **Observability** → OpenTelemetry, Prometheus, Grafana  
-- **Apps** → .NET APIs, Angular dashboards, secure JWT auth  
+- **Backend & Frontend** → .NET Web APIs, Angular dashboards, secure JWT auth  
 - **Databases** → MySQL, PostgreSQL, SQL Server  
+- **DevOps (Enthusiast)** → CI/CD (GitHub Actions, Jenkins), Docker, Kubernetes, Terraform  
+- **Cloud (Enthusiast)** → AWS (EC2, ECS/EKS, S3, RDS, IAM), Azure basics, OCI basics  
+- **Observability** → OpenTelemetry, Prometheus, Grafana  
 
 ---
 
 ## 🚀 Featured Projects  
 
+- **Enterprise APIs & Dashboards (Endava)**  
+  Building .NET APIs and Angular frontends with secure auth and integrations.  
+
 - **Real-Time DevOps Project (AWS + Docker + CI/CD)**  
-  Multi-service app deployed on AWS with automated pipelines.  
-  *Highlights:* Terraform IaC, blue-green deploys, CloudWatch dashboards.  
+  Multi-service app with automated GitHub Actions pipeline, deployed to AWS ECS/EKS.  
 
 - **OpenTelemetry Demo – Contributions**  
-  Extended deployments and configs to showcase observability with logs, metrics, traces.  
+  Deployment and observability tweaks for distributed tracing/logs/metrics.  
 
 - **Online Bookstore (.NET + Angular + SQL)**  
-  Auth + cart + order management with PrimeNG UI, secure REST APIs.  
+  Auth, cart, checkout flow with PrimeNG UI and REST APIs.  
 
 ---
 
 ## 🧑‍💼 Experience  
 
-**Software Engineer — Endava (1 yr 2 mo)**  
-- Built CI/CD pipelines, Dockerized apps, automated deployments  
-- AWS (ECS/EKS) deployments with monitoring and observability  
-- Developed .NET APIs + Angular frontends  
+**Software Engineer — Endava (Aug 2024 – Present)**  
+- Designed and developed enterprise APIs in **.NET**  
+- Built Angular frontends with reactive forms and PrimeNG  
+- Exposure to CI/CD pipelines, Dockerized workflows, and observability  
 
 **Intern (6 mo)**  
-- Assisted in web app features and DevOps automation basics  
+- Built and tested features in web applications  
+- Learned fundamentals of DevOps & automation  
+
+---
+
+## 🎓 Certifications  
+
+- **Microsoft AI-900** — Azure AI Fundamentals  
+- **Microsoft AZ-900** — Azure Fundamentals  
+- **Microsoft DP-900** — Azure Data Fundamentals  
+- **Microsoft SC-900** — Security, Compliance, and Identity Fundamentals  
+- **OCI Data Science Professional**  
+- **DevOps Professional**  
+- **Multicloud Professional**  
+- **AWS Academy Cloud Practitioner**  
+- **Cloud Architect**  
 
 ---
 
 ## 👐 Open Source  
 
-- Contributions to **OpenTelemetry demo** (docs, deployment tweaks)  
-- Active on community projects labeled `good first issue`  
+- Contributions to **OpenTelemetry demo** (docs, deployment configs, observability)  
+- Exploring DevOps/Cloud related open issues  
 
 ---
 
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
 </p>  
 
 ---
